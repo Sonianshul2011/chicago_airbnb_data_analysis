@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/81809630/203792299-64d7bbb8-47af-4c6b-96d1-5b1330fc97f3.png)
+
 # chicago_airbnb_data_analysis
 Chicago Airbnb Data Analysis
 
